@@ -11,11 +11,15 @@ To this time i tried various distro and DE on it:
 - the fingerprint reader doesn`t work
 - the automatic orientation of the screen orientates in the opposite way that you hold the device
 
-## And due to the state of my machine i wanted to make some fixes to make it usable:
+## And wanted to apply some tweaks:
 
-- disable the keyboard because its no longer of use
 - make the device switch beetween laptop and tablet mode and disable automatically trackpad,keyboard and power button
-- disable the power button when in tablet mode, so you dont suspend your machine by accident
+
+## Usecases I came up with:
+
+- use it to disply music notes
+- to read books
+- use it like tablet to menage my home and homelab trough web interface or app
 
 ## Progress:
 
