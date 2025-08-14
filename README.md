@@ -26,7 +26,7 @@ apt install lomiri lomiri-desktop-session
 
 ## During my testing i encountered various problems:
 
-- [the trackpad isn`t recognized](trackpad)
+- [the trackpad isn`t recognized](trackpad-documentation.md)
 - the fingerprint reader doesn`t work
 - the automatic orientation of the screen orientates in the opposite way that you hold the device
 
