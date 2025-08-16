@@ -3,7 +3,7 @@
 To this time i tried various distro and DE on it:
 - Fedora whit [GNOME](https://fedoraproject.org/workstation/), [KDE mobile](https://fedoraproject.org/workstation/), [Phosh](https://puri.sm/posts/phosh-overview/)
 - [Linux Mint](https://www.linuxmint.com/)
-- [Debian Trixie](https://www.debian.org/) whit [Phosh](https://puri.sm/posts/phosh-overview/), Lomiri
+- [Debian Trixie](https://www.debian.org/) whit [Phosh](https://puri.sm/posts/phosh-overview/), Lomiri, GNOME onh xorg, KDE plasma, XFCE and Cinnamon
 
 Linux mint WITH cinnamon is not a so touch friendly environment, so ruled that one out, KDE mobile worked really well and could be a vaild option, vanilla GNOME worked good but it went a bit too heavy on the resources expecially when switchig tabs it would freeze, on the other hand Phosh which is based on GNOME behaved really well, no stutter, good touch support, no lag when logging in and out and well integrated login screen, suspend works well too. To install posh on their page is no documentation because it comes with their own os: PureOS,  
 anyway to install it on Fedora just:  
@@ -19,6 +19,14 @@ Last i tried Lomiri and not a bad expirience after all, i think phosh is more fl
 apt update
 ```
 and
-```
+```bash
 apt install lomiri lomiri-desktop-session
 ```
+
+Then i tried KDE plasmas, GNOME on xorg, XFCE, and Cinnamon because i needed to crate custom scripts for switching in tablet mode and things like that but Wayland isnt easy to write script for so i needed to go whit a DE based on Xorg,   
+and maybe finally i found something that can work like i want it: __Cinnamon__, installing Touchegg, Onboard, x11-xserver-utils
+
+```bash
+sudo apt install touchegg onboard x11-xserver-utilis
+```
+
