@@ -4,7 +4,7 @@ Family member gave me this laptop, mine has a problematic keyboard, missing 3 ke
 To this time i tried various distro and DE on it:
 - Fedora whit [GNOME](https://fedoraproject.org/workstation/), [KDE mobile](https://fedoraproject.org/workstation/), [Phosh](https://puri.sm/posts/phosh-overview/)
 - [Linux Mint](https://www.linuxmint.com/)
-- [Debian Trixie](https://www.debian.org/) with [Phosh](https://puri.sm/posts/phosh-overview/), Lomiri, GNOME onh xorg, KDE plasma, XFCE
+- [Debian Trixie](https://www.debian.org/) with [Phosh](https://puri.sm/posts/phosh-overview/), Lomiri, GNOME onh xorg, KDE plasma, XFCE and Cinnamon
 
 
 ## During my testing i encountered various problems:
