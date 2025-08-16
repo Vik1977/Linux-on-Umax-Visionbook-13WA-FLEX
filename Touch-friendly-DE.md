@@ -24,9 +24,6 @@ apt install lomiri lomiri-desktop-session
 ```
 
 Then i tried KDE plasmas, GNOME on xorg, XFCE, and Cinnamon because i needed to crate custom scripts for switching in tablet mode and things like that but Wayland isnt easy to write script for so i needed to go whit a DE based on Xorg,   
-and maybe finally i found something that can work like i want it: __Cinnamon__, installing Touchegg, Onboard, x11-xserver-utils
-
-```bash
-sudo apt install touchegg onboard x11-xserver-utilis
-```
-
+and maybe finally i found something that can work like i want it: __Cinnamon__, installing Touchegg, Onboard, x11-xserver-utils  
+In this file is written all my setup for the cinnamon desktop and how i made it touch friendly  
+[Cinnamon_touch_tweaks](Cinnamon_touch_teaks.md)
