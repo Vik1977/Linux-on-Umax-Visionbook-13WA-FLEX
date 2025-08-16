@@ -19,11 +19,10 @@ You can make a script rotate.sh and bind it to a shortcut:
 xrandr --output eDP-1 --rotate left
 ```
 
-## 2)On-screen keyboard
+## 2)On-screen keyboard: Oboard
 
 Enable it at startup:  
 Menu → Startup Applications → Add → Onboard.  
-You can bind a hotkey to toggle it.
 
 
 ## 3)Touch gestures
@@ -47,6 +46,9 @@ gsettings set org.cinnamon.desktop.interface cursor-size 32
 ```
 
 Also in Cinnamon Settings → Themes, pick a theme with bigger buttons (Mint-Y-Dark with 150% scaling works well).
+```bash
+sudo apt install mint-y-icons
+```
 
 ## 5)Trackpad and Tap tweaks
 
