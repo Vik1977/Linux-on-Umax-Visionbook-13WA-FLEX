@@ -1,4 +1,7 @@
 # Linux-on-Umax-Visionbook-13WA-FLEX
+__this project is not done, the little progress i has and the little support thet is given for this laptop (apparently the UMAX  publicly stated to sot support linux) made me reconsider reinstalling windows on it.__
+
+I installed windows 10 LTSC from the [MAS activation scripts](https://massgrave.dev/) website
 Family member gave me this laptop, mine has a problematic keyboard, missing 3 keys, so it`s not much usable.
 
 To this time i tried various distro and DE on it:
