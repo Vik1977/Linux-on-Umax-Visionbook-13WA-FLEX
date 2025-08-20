@@ -1,7 +1,9 @@
 # Linux-on-Umax-Visionbook-13WA-FLEX
 __this project is not done, the little progress i has and the little support thet is given for this laptop (apparently the UMAX  publicly stated to sot support linux) made me reconsider reinstalling windows on it.__
 
-I installed windows 10 LTSC from the [MAS activation scripts](https://massgrave.dev/) website
+I installed windows 10 LTSC from the [MAS activation scripts](https://massgrave.dev/) website, using in tablet mode, the screen rotation works fine, touchpad works only the fingerprint reader dosent appear in device menager,  
+its not my primary machine so im okay on having Windows on it, its useful for compatibility, if i find an NMVE for the expantion slot i could dual boot it.
+
 Family member gave me this laptop, mine has a problematic keyboard, missing 3 keys, so it`s not much usable.
 
 To this time i tried various distro and DE on it:
